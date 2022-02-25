@@ -1,0 +1,50 @@
+[
+    {
+    "video_id" : "v1",
+    "ad_id" : "a1",
+    "ad_start_time" : 5,
+    "ad_end_time" : 10,
+    "ad_image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1700944/2019/6/8/972c9498-3a37-4d5d-976c-4493b4d5c0021559989322793-HRX-by-Hrithik-Roshan-Men-Yellow-Printed-Round-Neck-T-Shirt--1.jpg",
+    "on_click": "https://www.myntra.com/1700944"
+    },
+    {
+    "video_id" : "v1",
+    "ad_id" : "a2",
+    "ad_start_time" : 15,
+    "ad_end_time" : 20,
+    "ad_image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2314424/2018/5/24/16fad75c-35ed-4780-8625-193cc8dae4fc1527173672482-HRX-by-Hrithik-Roshan-Men-Black-Slim-Advanced-Rapid-Dry-Raglan-T-shirt-3541527173669891-1.jpg",
+    "on_click": "https://www.myntra.com/2314424"
+    },
+    {
+    "video_id" : "v1",
+    "ad_id" : "a3",
+    "ad_start_time" : 25,
+    "ad_end_time" : 30,
+    "ad_image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/2314433/2018/4/11/11523427507814-HRX-by-Hrithik-Roshan-Men-Tshirts-2051523427507608-1.jpg",
+    "on_click": "https://www.myntra.com/2314433"
+    },
+    {
+    "video_id" : "v2",
+    "ad_id" : "a1",
+    "ad_start_time" : 5,
+    "ad_end_time" : 10,
+    "ad_image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/7231694/2019/2/8/6b595914-1c66-4d0a-a542-9a2134ae6f391549618643915-HRX-by-Hrithik-Roshan-Men-Fluorescent-Green-Solid-Round-Neck-1.jpg",
+    "on_click": "https://www.myntra.com/7231694"
+    },
+    {
+    "video_id" : "v2",
+    "ad_id" : "a2",
+    "ad_start_time" : 15,
+    "ad_end_time" : 20,
+    "ad_image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1987412/2017/8/29/11504009904650-HRX-by-Hrithik-Roshan-Men-Black-Solid-Round-Neck-T-shirt-8741504009904381-1.jpg",
+    "on_click": "https://www.myntra.com/1987412"
+    },
+    {
+    "video_id" : "v2",
+    "ad_id" : "a3",
+    "ad_start_time" : 25,
+    "ad_end_time" : 30,
+    "ad_image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/6555072/2018/8/17/3454c8cf-00c1-493a-82f7-7b0902b675841534485726969-HRX-by-Hrithik-Roshan-Men-Tshirts-6071534485726711-1.jpg",
+    "on_click": "https://www.myntra.com/6555072"
+    }
+]

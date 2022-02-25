@@ -1,0 +1,23 @@
+#maxtap{
+text-align: center;
+color: rgb(88, 196, 247);
+font-size: 5vh;
+}
+
+.vid{
+    text-align: center;
+    margin: 2vh 0 25vh;
+}
+
+#videoPlayer{
+width: 100vh;
+height:70vh;
+margin: auto;
+}
+
+#ad{
+    position: absolute;
+    z-index: 1;
+    top: 40%;
+    left: 30%;
+}
