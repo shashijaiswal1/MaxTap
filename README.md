@@ -12,7 +12,7 @@ Follow the steps given below to use it:
 
 Download this repo as zip file or clone it by running the below command
 
-git clone https://github.com/shashijaiswal1/MaxTap.github.io.git
+git clone https://github.com/shashijaiswal1/MaxTap/
 
 Now, open the "MaxTap.github.io" folder which got created "after clonning" it in the previous step.
 
